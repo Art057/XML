@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+  <id>1</id>
+  <title>Huawei P Smart Plus (Nova 3i) - Homepage - User unable to Login / Sign up</title>
+  <description>
+    <severity>critical</severity>
+    <issue_type>functional</issue_type>
+    <frequency>every time</frequency>
+    <action_performed>
+      <1>Open link https://...</1>
+      <2>Tap on hamburger menu</2>
+      <3>Tap on Log In / Sign Up button</3>
+    </action_performed>
+    <expected_result>User should be able to Log In / Sign Up</expected_result>
+    <actual_result>User redirected to homepage</actual_result>
+    <attachments>1.jpg, 2.mp4, 3.chls</attachments>
+  </description>
+</bug_report>
