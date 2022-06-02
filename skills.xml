@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+<documentation>check-lists, test-cases, bug-reports</documentation>
+<web>HTTP, DevTools, HTML/CSS/JS</web>
+<API>Postman, REST, JSON, XML</API>
+<proxy>Charles</proxy>
+<mobile>Android Studio, ADB</mobile>
+<terminal>fish, git</terminal>
+<DB>SQL</DB>
+
